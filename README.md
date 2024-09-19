@@ -29,5 +29,5 @@ Finalmente, cuenta y retorna la cantidad total de notificaciones enviadas.
 ## Repositorio
 
     ```bash
-    git clone https://github.com/Bautistadev/Ejercicio_3.gitt
+    git clone https://github.com/Bautistadev/Ejercicio_3.git
     ```
