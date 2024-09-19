@@ -79,8 +79,6 @@ public class App {
                     eliminar(map, gastos.get(i - d));
                     agregar(map, gastos.get(i));
 
-                    System.out.println(map.toString());
-
                     return notificacion;
                 })
                 // Contamos cuántos días cumplen con la condición del filtro
